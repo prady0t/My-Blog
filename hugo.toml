@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Prady0t's Blog"
+theme = "bootstrap"
