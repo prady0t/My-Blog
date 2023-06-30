@@ -54,4 +54,4 @@ That's about it. Coming month, I'm trying to get more involved with CNCF communi
 
  I've also decided to write these status reports every month's end so that I can keep a track of my progress (given if there's any).
 
-![Alt text](/moo.png)
+![Alt text](/static/moo.png)
