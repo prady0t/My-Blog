@@ -19,7 +19,7 @@ Recently I got selected for the Google Summer of Code program. I've been working
 
 I started contributing to PyBaMM in November last year.  Initially, it was difficult to navigate through the codebase, but the mentors were pretty chilled out and helped me a lot. Part of the reason why I stuck around (other than my love for Python-related projects) was the helpful people that I found here. I've learned a lot contributing to this project and it's only going to increase from here.
 
-The community bonding phase was really helpful. Although most of the time I had exams so was not able to do meetings very frequently, mentors were pretty supportive of this. We did one meeting where we discussed how we will carry forward with this project, some prerequisites that need to be done and overall introduction to the PyBaMM team.
+The community bonding phase was really helpful. Although most of the time I had exams so was not able to do meetings very frequently, mentors were pretty supportive of this. We had a meeting where we discussed how we will carry forward with this project, some prerequisites that need to be done and overall introduction to the PyBaMM team.
 
 ### What is PyBaMM?
 
