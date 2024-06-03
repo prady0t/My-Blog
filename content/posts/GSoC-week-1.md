@@ -13,7 +13,7 @@ date: 2024-06-03
 
   
 
-Recently I got selected for the Google Summer of Code program. I've been working with PyBaMM (under the NumFOCUS umbrella) to improve their test suit. This blog will touch more on my experience of getting accepted as a GSoC student and my work till now and for the future at PyBaMM.
+Recently I got selected for the Google Summer of Code program. I've been working with PyBaMM (under the NumFOCUS umbrella) to improve their test suite. This blog will touch more on my experience of getting accepted as a GSoC student and my work till now and for the future at PyBaMM.
 
 ### Getting Selected and Community Bonding
 
