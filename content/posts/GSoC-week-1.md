@@ -43,4 +43,4 @@ We already merged a PR that allows unit tests to run with `Pytest`. In the first
 In future, my work would be mostly rewriting `Unittest` style tests to `Pytest`. Doing so manually would be tedious so we will look into tools that can help automate the process. We also want to implement property-based testing using `Hypothesis` framework. Documenting this whole process can be helpful for other projects planning such migrations in future. You can read more about my GSoC project [here](https://summerofcode.withgoogle.com/programs/2024/projects/gnFfAnqb).
 
 
-Note: I'll be writing biweekly blogs to keep things updated. If you are interested in this project, you can come back every two weeks to check out the progress. 
+Note: I'll be writing fortnightly blogs to keep things updated. If you are interested in this project, you can come back every two weeks to check out the progress. 
