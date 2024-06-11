@@ -9,7 +9,7 @@ date: 2024-06-03
 ---
 
 ![GSoC Banner](/GSoC_Banner.png)
-
+<img src = "/GSoC_Banner.png">
 
   
 
@@ -25,7 +25,7 @@ The community bonding phase was really helpful. Although most of the time I had 
 
 
 ![PyBaMM Banner](/Pybamm_banner.png)
-
+<img src = "/Pybamm_banner.png">
 
 
 PyBaMM (Python Battery Mathematical Modelling) is a tool for fast and flexible simulations of battery models. It provides an open-source framework for multi-institutional, interdisciplinary collaboration. PyBaMM offers improved collaboration and research impact in battery modelling by creating a modular framework through which either existing or new tools can be combined to solve continuum models for batteries. You can learn more about PyBaMM from the official docs [here](https://pybamm.org/).
