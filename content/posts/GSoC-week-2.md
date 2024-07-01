@@ -16,7 +16,7 @@ This blog will be about the work I did and interesting stuff I found in these tw
 ### Work so far and for the coming weeks.
 
 In these two weeks we heavily planned and implemented lot of infrastructural changes. These changes may not effect general users of PyBaMM, but 
-developers will surely benefit a lot from them. I also had a taste of how interrelated PR's can be an issue (although not so much in my case), I'll
+developers will surely benefit a lot from them. I also had a taste of how interrelated PRs can be an issue (although not so much in my case), I'll
 explain more about it later.
 
 Let's break down the work :
