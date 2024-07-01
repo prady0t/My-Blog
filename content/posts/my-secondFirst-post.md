@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Status Report"
 date: 2023-06-30T12:42:28+05:30
 
@@ -54,4 +54,4 @@ That's about it. Coming month, I'm trying to get more involved with CNCF communi
 
  I've also decided to write these status reports every month's end so that I can keep a track of my progress (given if there's any).
 
-![Alt text](/moo.png)
+![Alt text](/moo.png) -->
