@@ -19,7 +19,7 @@ In these two weeks we heavily planned and implemented lot of infrastructural cha
 developers will surely benefit a lot from them. I also had a taste of how interrelated PRs can be an issue (although not so much in my case), I'll
 explain more about it later.
 
-Let's break down the work :
+Let's break down the work:
 
 - Removing `run-tests.py` file : Most python projects uses a `run-tests.py`, which is used to handle command line inputs while running tests. PyBaMM already had 
 `noxfile.py`. This file is used to handle `nox` sessions, nox is a command-line tool that automates testing in multiple python environments, similar to tox. So
