@@ -38,6 +38,6 @@ we already had multiple `nox` sessions for different testing conditions. `noxfil
 
 This is mostly the work I did in these weeks apart from reading and learning more about `pytest`'s advanced features such as `fixtures`. I also came across a term called `monkeypatch` and `metaprogramming` which I will learn more about in the coming weeks. (Just wanted to use these words )
 
-Work in the coming weeks work will be more focused on (apart from the above mentioned pending PR's) converting `unittest` to `pytest` and how we are trying to automate and streamline this whole process.
+Work in the coming weeks will be more focused on (apart from the mentioned pending PRs above) converting tests from `unittest` to `pytest` and on how we are trying to automate and streamline this whole process.
 
 Note: I’ll be writing fortnightly blogs to keep things updated. If you are interested in this project, you can come back every two weeks to check out the progress.
