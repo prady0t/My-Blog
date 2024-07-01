@@ -21,7 +21,7 @@ explain more about it later.
 
 Let's break down the work:
 
-- Removing `run-tests.py` file: Most Python projects use a `run-tests.py`, which is used to handle command-line inputs while running tests. PyBaMM already had 
+- Removing `run-tests.py` file: Most Python projects use a `run-tests.py` or a tool called `tox`, which is used to handle command-line inputs while running tests. PyBaMM already had 
 `noxfile.py`. This file is used to handle `nox` sessions.`nox` is a command-line tool that automates testing in multiple Python environments, similar to `tox`. So
 we already had multiple `nox` sessions for different testing conditions. `noxfile.py` in PyBaMM pointed to `run-tests.py` file and hence the work is to completely remove the legacy code in `run-tests.py` file and use `nox` for everything. 
   
