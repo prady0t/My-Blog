@@ -1,6 +1,6 @@
 ---
 
-title: "GSoC week 2 and 3"
+title: "GSoC week 3 and 4"
 
 date: 2024-06-29
 

@@ -1,6 +1,6 @@
 ---
 
-title: "GSoC week 4 and 5"
+title: "GSoC week 5 and 6"
 
 date: 2024-07-27
 
@@ -11,7 +11,7 @@ date: 2024-07-27
 ![GSoC Banner](/GSoC_Banner.png)
 <img src = "/GSoC_Banner.png">
 
-This blog will cover the fourth and fifth week as a GSoC student.
+This blog will cover the fifth and sixth week as a GSoC student.
 
 ### Work so far and for the coming weeks.
 
