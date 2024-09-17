@@ -11,7 +11,7 @@ date: 2024-09-12
 ![GSoC Banner](/GSoC_Banner.png)
 <img src = "/GSoC_Banner.png">
 
-This blog will cover the ninth and tenth week as a GSoC student.
+This blog will cover the eleventh and twelth week as a GSoC student.
 
 ### Work so far and for the coming weeks.
 
